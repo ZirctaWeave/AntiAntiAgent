@@ -1,0 +1,5 @@
+{
+  "hooks": [
+    "me.zircta.aaw.LunarHook"
+  ]
+}
