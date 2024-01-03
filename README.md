@@ -1,10 +1,12 @@
-## Anti Anti Weave
-Breaking Lunar's weave detection with a weave mod... Better luck next time.
+> ### NOTE: Weave Loader 0.2.5+ now includes their own fix for this issue.
+
+## Anti Anti Agent
+Breaking Lunar's agent detection with a weave mod... Better luck next time.
 
 ---
 
 ### Installation
-1. Download [Anti Anti Weave](https://github.com/Syz66/AAW/releases/latest) mod.
+1. Download [Anti Anti Agent](https://github.com/Syz66/AntiAntiAgent/releases/latest) mod.
 2. Place the jar in your Weave mods folder.
     1. Windows: `%userprofile%\.weave\mods`
     2. Unix: `~/.weave/mods`
